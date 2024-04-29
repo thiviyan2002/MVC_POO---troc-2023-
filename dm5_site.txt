@@ -1,0 +1,12 @@
+DM 5 : Réalisation d'un site intranet 
+
+1. Boutique Orange : Gestion des interventions, les clients déposent leurs matériels et les techniciens réalisent des interventions sur les matériels.
+
+tables : client, matériel, intervention, technicien, 
+
+2. Air France : gestion des avions / vols / pilotes 
+Tables : avions, vols, pilotes, aeroports 
+
+3. Troc objets entre enfants 
+tables : Objet, catégorie, enfant, troc 
+

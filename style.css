@@ -1,0 +1,55 @@
+body{
+    /*background-color:#312783;*/
+    background: url(images/2jEUC5.webp )no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    /*color: #1A9DD9;*/color: rgb(243, 243, 243);
+    text-shadow: 0 2px 4px rgb(0, 0, 0);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+/*center{
+    height: 50vh;
+}*/
+.sol{
+    /*height: 100px;*/
+    background-color:#68C4D6
+}
+input[type="reset"],input[type="submit" i]{
+    border: none;
+    background: url(images/btn-bar.png);
+    background-size: cover;
+    color: rgb(243, 243, 243);
+    box-shadow: 0 2px 4px rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 1px 6px;
+    /*font-size: 1px;*/
+}
+/*input[type="submit" i]:hover{
+    background: url(images/btn-bar-clk.png);
+}*/
+.center{
+    display: block;
+    text-align: center;
+}
+table{
+    box-shadow: 0 2px 4px rgb(0, 0, 0);
+    background-color: rgb(179, 180, 184);border-radius: 4px;
+}
+table input[type="reset"], table input[type="submit" i]{width: 100%;height: 100%;box-shadow: none;border: 1px solid #68C4D6;}
+td{
+    padding: 4px 20px;
+    background: url(images/table1.png);
+    text-shadow: none;
+    color: rgb(85, 85, 87);
+    font-weight: bold;
+    border-radius: 4px;
+}
+.btn-pls-vld{
+    padding: 0!important;
+}/*<td class="btn-pls-vld">*/
+footer{
+    margin-top: 40px;
+}

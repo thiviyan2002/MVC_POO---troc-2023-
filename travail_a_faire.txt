@@ -1,0 +1,6 @@
+Travail à faire à la maison :
+
+- faire idem (affichage)avec les étudiants et les enseignements 
+
+- introduire du CSS Boostrap pour améliorer l'affichage du tableau et intégrer un pied de page.
+
